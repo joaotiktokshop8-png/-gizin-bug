@@ -1,0 +1,12 @@
+{
+  "name": "guizin-bug",
+  "version": "1.0.0",
+  "description": "Bot oficial Guizin Bug",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
